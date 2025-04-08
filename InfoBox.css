@@ -1,0 +1,11 @@
+.info-box {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
